@@ -1,0 +1,12 @@
+To do list for high multiplicity task:
+
+- implement event histograms:
+	- (DONE) VOM
+	- (Testing) Nch at mid y
+	- (DONE - check w/ ivan) VOM percentile (with multiplicity task)
+
+These are basically QA
+
+-(Essentially run with kInt7 & khighMult) modify Analysis to run for both min bias & HM, to they can be compared
+
+- end goal is to run this on trains for data from 16,17,18 for high statistics
